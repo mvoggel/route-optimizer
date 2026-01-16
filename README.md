@@ -1,6 +1,15 @@
 # route-optimizer
 Small router built to call an API service, serve as a stop-gap for appointment assignment on SJ Blinds reps
 
+## How It Works (Simple Version)
+1. Customer books appointment as usual
+2. System checks each rep’s schedule for that day
+3. Calculates which rep would have the shortest drive
+4. Automatically assigns the appointment
+5. Existing workflows continue normally
+
+This happens in seconds.
+
 ```mermaid
 flowchart TD
   U[Prospect] --> S1[Step 1: Enter Details<br/>name, phone, address, zip]
