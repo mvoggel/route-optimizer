@@ -5,24 +5,15 @@
 ###### Metrics to report: 
 
 Travel Time (period used: 1 week)
-
-&nbsp;	- Find the avg travel time per rep per day
-
-&nbsp;	- Find the avg travel time between appointments 
-
-&nbsp;	- Miles per job (total miles / total jobs)
-
+* Find the avg travel time per rep per day
+* Find the avg travel time between appointments 
+* Miles per job (total miles / total jobs)
 
 
 Travel inefficiencies 
-
-&nbsp;	- No. times each rep back tracks (weekly) - days where a rep drives past an area, then returns later in the same day
-
-&nbsp;	- No. days with backtracking / total work days
-
-&nbsp;	- Time taken in overlapping routes
-
-
+* No. times each rep back tracks (weekly) - days where a rep drives past an area, then returns later in the same day
+* No. days with backtracking / total work days
+* Time taken in overlapping routes
 
 
 
@@ -123,6 +114,7 @@ Timing and Cost:
 
 * 1-3 weeks once signed with company 
 * Rough estimate of ~$150 - $200/monthly with company + monthly cost for me
+
 
 
 
